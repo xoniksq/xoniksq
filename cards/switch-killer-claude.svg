@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="118" viewBox="0 0 720 118" role="img" aria-labelledby="t d">
+  <title id="t">switch-killer-claude</title>
+  <desc id="d">Ultra-fast kill switch for Claude Desktop on Windows. Terminates all Claude processes when the VPN drops or the IP leaks. Python</desc>
+  <style>
+    text {
+      font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", "DejaVu Sans Mono", monospace;
+      font-size: 14px;
+      fill: #c9d1d9;
+    }
+    .dim { fill: #8b949e; }
+    .k { fill: #58a6ff; font-weight: 700; }
+  </style>
+
+  <rect x="0.5" y="0.5" width="719" height="117" rx="8" fill="#0d1117" stroke="#30363d"/>
+
+  <text x="28" y="40"><tspan class="dim">~/repos/</tspan><tspan class="k">switch-killer-claude</tspan></text>
+  <text x="692" y="40" text-anchor="end" class="dim" xml:space="preserve">★ 2   <tspan fill="#3572A5">●</tspan> Python</text>
+
+  <text x="28" y="70">Ultra-fast kill switch for Claude Desktop on Windows.</text>
+  <text x="28" y="92">Terminates all Claude processes when the VPN drops or the IP leaks.</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="118" viewBox="0 0 720 118" role="img" aria-labelledby="t d">
+  <title id="t">funpay-autorent</title>
+  <desc id="d">Steam account rental bot for FunPay with a web panel. Steam Guard codes from email, auto password change. Python</desc>
+  <style>
+    text {
+      font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", "DejaVu Sans Mono", monospace;
+      font-size: 14px;
+      fill: #c9d1d9;
+    }
+    .dim { fill: #8b949e; }
+    .k { fill: #58a6ff; font-weight: 700; }
+  </style>
+
+  <rect x="0.5" y="0.5" width="719" height="117" rx="8" fill="#0d1117" stroke="#30363d"/>
+
+  <text x="28" y="40"><tspan class="dim">~/repos/</tspan><tspan class="k">funpay-autorent</tspan></text>
+  <text x="692" y="40" text-anchor="end" class="dim" xml:space="preserve">★ 1   <tspan fill="#3572A5">●</tspan> Python</text>
+
+  <text x="28" y="70">Steam account rental bot for FunPay with a web panel.</text>
+  <text x="28" y="92">Steam Guard codes from email, auto password change.</text>
+</svg>

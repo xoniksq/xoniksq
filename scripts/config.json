@@ -1,0 +1,8 @@
+{
+  "max": 6,
+  "exclude": [],
+  "descriptions": {
+    "funpay-autorent": "Steam account rental bot for FunPay with a web panel.\nSteam Guard codes from email, auto password change.",
+    "switch-killer-claude": "Ultra-fast kill switch for Claude Desktop on Windows.\nTerminates all Claude processes when the VPN drops or the IP leaks."
+  }
+}

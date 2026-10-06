@@ -6,11 +6,11 @@
 
 <!-- repos:start -->
 <p align="center">
-  <a href="https://github.com/xoniksq/switch-killer-claude"><img src="cards/switch-killer-claude.svg" width="720" alt="switch-killer-claude: Ultra-fast kill switch for Claude Desktop on Windows. Terminates all Claude processes when the VPN drops or the IP leaks."></a>
+  <a href="https://github.com/xoniksq/funpay-autorent"><img src="cards/funpay-autorent.svg" width="720" alt="funpay-autorent: Steam account rental bot for FunPay with a web panel. Steam Guard codes from email, auto password change."></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/xoniksq/funpay-autorent"><img src="cards/funpay-autorent.svg" width="720" alt="funpay-autorent: Steam account rental bot for FunPay with a web panel. Steam Guard codes from email, auto password change."></a>
+  <a href="https://github.com/xoniksq/switch-killer-claude"><img src="cards/switch-killer-claude.svg" width="720" alt="switch-killer-claude: Ultra-fast kill switch for Claude Desktop on Windows. Terminates all Claude processes when the VPN drops or the IP leaks."></a>
 </p>
 <!-- repos:end -->
 

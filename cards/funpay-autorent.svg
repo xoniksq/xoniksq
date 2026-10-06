@@ -14,7 +14,7 @@
   <rect x="0.5" y="0.5" width="719" height="117" rx="8" fill="#0d1117" stroke="#30363d"/>
 
   <text x="28" y="40"><tspan class="dim">~/repos/</tspan><tspan class="k">funpay-autorent</tspan></text>
-  <text x="692" y="40" text-anchor="end" class="dim" xml:space="preserve">★ 1   <tspan fill="#3572A5">●</tspan> Python</text>
+  <text x="692" y="40" text-anchor="end" class="dim" xml:space="preserve">★ 2   <tspan fill="#3572A5">●</tspan> Python</text>
 
   <text x="28" y="70">Steam account rental bot for FunPay with a web panel.</text>
   <text x="28" y="92">Steam Guard codes from email, auto password change.</text>

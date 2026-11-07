@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="66" viewBox="0 0 720 66" role="img" aria-labelledby="t d">
+  <title id="t">islandbar</title>
+  <desc id="d">C#</desc>
+  <style>
+    text {
+      font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", "DejaVu Sans Mono", monospace;
+      font-size: 14px;
+      fill: #c9d1d9;
+    }
+    .dim { fill: #8b949e; }
+    .k { fill: #58a6ff; font-weight: 700; }
+  </style>
+
+  <rect x="0.5" y="0.5" width="719" height="65" rx="8" fill="#0d1117" stroke="#30363d"/>
+
+  <text x="28" y="40"><tspan class="dim">~/repos/</tspan><tspan class="k">islandbar</tspan></text>
+  <text x="692" y="40" text-anchor="end" class="dim" xml:space="preserve">★ 1   <tspan fill="#178600">●</tspan> C#</text>
+
+</svg>

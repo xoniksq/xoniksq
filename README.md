@@ -12,6 +12,10 @@
 <p align="center">
   <a href="https://github.com/xoniksq/funpay-autorent"><img src="cards/funpay-autorent.svg" width="720" alt="funpay-autorent: Steam account rental bot for FunPay with a web panel. Steam Guard codes from email, auto password change."></a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/xoniksq/islandbar"><img src="cards/islandbar.svg" width="720" alt="islandbar"></a>
+</p>
 <!-- repos:end -->
 
 <p align="center">
